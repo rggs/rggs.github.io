@@ -1,7 +1,7 @@
 # Setup
 title:               Ryan Swope
 tagline:             ''
-description:         'My website to showcase my personal work.'
+description:         'A website to showcase my personal work.'
 url:                 https://rggs.github.io/
 baseurl:             ''
 paginate:            5
