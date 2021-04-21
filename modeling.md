@@ -29,4 +29,5 @@ assignment and underneath are my reports.
 * [Artificial neural networks](http://aprsa.villanova.edu/files/2020_spring_ast3148_11.pdf)  
 	* [Report Ten](https://rggs.github.io/modeling/Modeling_10.pdf)  
 * Individual assignments  
-	* [Report 10 - Image Recognition](https://rggs.github.io/modeling/Individual_Project.pdf)  
+	* [Report 10 - Image Recognition](https://rggs.github.io/modeling/Individual_Project.pdf) 
+	* Yes, I know I spelled "knife" wrong. 
