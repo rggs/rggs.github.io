@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modeling - Spring 2020
+title: Modeling
 ---
 
 These projects were done over the course of a semester in Spring 2020. Each was completed in one week. The titles link to the original
