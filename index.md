@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Home
+## About Me
 
 <img class="profile-picture" src="profile.png">
 
-I am a senior Astrophysics and Mathematics double major at Villanova University, with minors in Physics and Business.  
+Senior at Villanova University. Astrophysics and Mathematics double major with minors in Physics and Business.  
 
-Much of the code discussed here can also be found at [my GitHub](https://github.com/bk2dcradle/researcher)  
+Much of my code can be found at [my GitHub](https://github.com/rggs/)  
 
-## Research Interest
+## Research Interests
 
 My research interests include geometry, topology, mathematical and theoretical physics, and quantitative finance.
 
