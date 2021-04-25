@@ -23,3 +23,5 @@ nav:
    link: "/projects"
  - name: "Contact"
    link: "contact"
+ - name: "Github"
+   link: "https://github.com/rggs"
