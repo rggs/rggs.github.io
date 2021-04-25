@@ -8,12 +8,61 @@ that any one team would advance past a round would be 1 among all teams that wer
 of the odds that the 1, 16, 8, or 9 seeds would make it into the fairly good four should add to one. After some scribbling, it became clear that the 
 odds of a team advancing past a round would be:  
 
-<p><span class="math inline">\(P_{T,n} = P_{T,n-1}  \sum_{t=j}^k W_{T,t}*P_{t,n-1}\)</span></p>  
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo>−</mo>
+        <mn>1</mn>
+      </mrow>
+    </msub>
+    <munderover>
+      <mo>∑</mo>
+      <mrow>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mi>j</mi>
+      </mrow>
+      <mi>k</mi>
+    </munderover>
+    <msub>
+      <mi>W</mi>
+      <mrow>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+      </mrow>
+    </msub>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo>−</mo>
+        <mn>1</mn>
+      </mrow>
+    </msub>
+  </mrow>
+</math>  
 
-Which can essentially be translated to this: The odds that a team T advances is equal to the sum of the odds of T beating team t,
+Which can essentially be translated to this: The odds that a team T advances to round n is equal to the sum of the odds of T beating team t,
 times the probability that team t advanced past the previous round, where t spans teams j -> k, which are all the teams that can 
-possibly advance to that position that T has not already played. That sum is then multiplied by the odds that T advanced pasat the 
-previous round. So, if we want to know the odds that the 1 seed advances to the fairly good 4 we would do the following:  
+possibly advance to that position that T has not already played. That sum is then multiplied by the odds that T advanced past the 
+previous round, n-1. So, if we want to know the odds that the 1 seed advances to the fairly good 4 we would do the following:  
 
 * Multiply the odds that the 1 seed beats the 8 seed by the odds that the 8 seed beats the 9 seed.  
 * Multiply the odds that the 1 seed beats the 9 seed by the odds that the 9 seed beats the 8 seed.  
