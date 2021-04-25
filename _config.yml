@@ -3,7 +3,8 @@ url: "https://rggs.github.io/"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./villanova.jpg"
+#ins_logo: "./villanova.jpg"
+favicon: "./public/favicon.ico"
 
 tracking_id: #
 

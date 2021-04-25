@@ -4,7 +4,7 @@ layout: default
 
 ## Home
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="profile.png">
 
 I am a senior Astrophysics and Mathematics double major at Villanova University, with minors in Physics and Business.  
 
