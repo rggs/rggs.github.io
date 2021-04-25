@@ -20,4 +20,4 @@ previous round. So, if we want to know the odds that the 1 seed advances to the 
 * Add these values together.  
 * Finally, multiply this number by the odds that the 1 seed beats the 16 seed.  
 
-And there you have it! The code can be found here.
+And there you have it! The code can be found [here](https://github.com/rggs/Jane-Street-Puzzles).
