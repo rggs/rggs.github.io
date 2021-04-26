@@ -22,7 +22,9 @@ I'm primarily interested in Geometry, Topology, Mathematical and Theoretical Phy
 ## Memberships
 
 **Sigma Pi Sigma** Physics Honors Society, Villanova Chapter  
+  
 **Pi Mu Epsilon** Math Honors Society, Villanova Chapter  
+  
 **Phi Beta Kappa** The Nation's Most Prestigious & Selective Academic Honors Society, Villanova Chapter  
 
 ## Personal Interests
