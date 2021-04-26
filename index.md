@@ -6,19 +6,25 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Senior at Villanova University. Astrophysics and Mathematics double major with minors in Physics and Business.  
+Hi! I'm a senior at Villanova University and will be graduating in May 2021 with a B.S. in Astrophysics and Mathematics and minors in Physics and Business. 
 
-Much of my code can be found at [my GitHub](https://github.com/rggs/)  
+If you'd like to see more of my code, please visit [my GitHub](https://github.com/rggs/)  
 
 ## Research Interests
 
-My research interests include geometry, topology, mathematical and theoretical physics, and quantitative finance.
+I'm primarily interested in Geometry, Topology, Mathematical and Theoretical Physics, and Quantitative Finance. 
 
 ## Publications
 
 1. Swope, R. & Prsa, A. “Pilot study for the autonomous discovery of unknown unknowns in photometric timeseries data”, Presented at AAS 237.    
 2. Swope, R., Klein, T., Harmer, K., & Pasles, P. “Rational Powers of Complex Matrices” (Fall 2020). Submitted to the Pi Mu Epsilon Journal.  
 
+## Memberships
+
+**Sigma Pi Sigma** Physics Honors Society, Villanova Chapter
+**Pi Mu Epsilon** Math Honors Society, Villanova Chapter
+**Phi Beta Kappa** The Nation's Most Prestigious & Selective Academic Honors Society, Villanova Chapter
+
 ## Personal Interests
 
-My personal interests include cryptocurrency, poker, skiing, and mountain biking.
+My personal interests include cryptocurrency, poker, skiing, and mountain biking. 
