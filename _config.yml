@@ -6,7 +6,7 @@ markdown: kramdown
 #ins_logo: "./villanova.jpg"
 favicon: "./public/favicon.ico"
 
-tracking_id: "G-23B5LGK2G6"
+tracking_id: G-23B5LGK2G6
 
 footer: yes
 footer_url: "https://github.com/rggs"
