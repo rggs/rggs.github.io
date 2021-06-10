@@ -8,4 +8,4 @@ of unknown unknowns in photometric timeseries data". Using techniques from machi
 completely autonomous outlier detection on a large dataset of timeseries data from the Kepler mission. However, this 
 research is ongoing and results are improving continuously.  
 
-The poster for the research can be found [here](aas237-aas.ipostersessions.com/Default.aspx?s=EA-72-95-16-C7-B9-D6-DC-30-0F-67-BE-30-55-7D-C4).
+The poster for the research can be found [here](https://aas237-aas.ipostersessions.com/Default.aspx?s=EA-72-95-16-C7-B9-D6-DC-30-0F-67-BE-30-55-7D-C4).
