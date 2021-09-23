@@ -12,7 +12,7 @@ If you'd like to see more of my code, please visit [my GitHub](https://github.co
 
 ## Research Interests
 
-I'm primarily interested in Geometry, Topology, Mathematical and Theoretical Physics, and Quantitative Finance. 
+I'm primarily interested in Geometry, Topology, Mathematical and Theoretical Physics, Machine Learning, and Quantitative Finance. 
 
 ## Publications
 
