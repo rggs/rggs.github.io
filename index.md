@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hi! I'm a senior at Villanova University and will be graduating in May 2021 with a B.S. in Astrophysics and Mathematics and minors in Physics and Business. 
+Hi! I'm a machine learning researcher at Booz Allen Hamilton. I graduated from Villanova University with a B.S. in Astrophysics and Mathematics and minors in Physics and Business. 
 
 If you'd like to see more of my code, please visit [my GitHub](https://github.com/rggs/)  
 
@@ -17,7 +17,7 @@ I'm primarily interested in Geometry, Topology, Mathematical and Theoretical Phy
 ## Publications
 
 1. Swope, R. & Prsa, A. “Pilot study for the autonomous discovery of unknown unknowns in photometric timeseries data”, Presented at AAS 237.    
-2. Swope, R., Klein, T., Harmer, K., & Pasles, P. “Rational Powers of Complex Matrices” (Fall 2020). Submitted to the Pi Mu Epsilon Journal.  
+2. Swope, R., Klein, T., Harmer, K., & Pasles, P. “Rational Powers of Complex Matrices” (Fall 2020). Submitted to Mathematics and Computer Education.  
 
 ## Memberships
 
