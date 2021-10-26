@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hi! I'm a machine learning researcher at Booz Allen Hamilton. I graduated from Villanova University with a B.S. in Astrophysics and Mathematics and minors in Physics and Business. 
+Hi! I'm a Machine Learning Researcher at Booz Allen Hamilton. I graduated from Villanova University with a B.S. in Astrophysics and Mathematics and minors in Physics and Business. 
 
 If you'd like to see more of my code, please visit [my GitHub](https://github.com/rggs/)  
 
